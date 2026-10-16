@@ -1,0 +1,42 @@
+[SHOW NAME]: Style Guide
+(Brand Kit document. Fill every field from the client's own channel, website and artwork. Never invent; mark unknowns "TBC".)
+
+Show Identity
+- Show name:
+- Host(s):
+- One-line description:
+- Audience:
+- Channel / website links:
+
+Colours
+- Background: #......   Title box: #......   Title text: #......
+- Glow / accent: #......   Label text: #......
+(Sample hex values from the client's banner, avatar and thumbnails.)
+
+Typography
+- Title font (heavy condensed caps work well):
+- Label font:
+- Any stand-ins used and why:
+
+Artwork Layout
+- YouTube thumbnail 1280x720: title box left, guest photo right with a soft fade.
+- Cover 3000x3000: logo top-left, show name beside it, title box, guest label, 5% safe margin.
+- Photo source: the client's own images only. No generated people.
+
+Background Style
+- Procedural, abstract: dark base, soft glow, halftone dots, light grain.
+
+Show-Notes Tone
+- Voice, reading level, words to use, words to avoid. UK English.
+
+Standard CTA
+- e.g. subscribe / follow / visit link (from the client's existing descriptions).
+
+Links
+- Website, socials, booking page, newsletter (only links the client already publishes).
+
+Files in the Brand Kit
+- Style Guide, brand.json (for templates/artwork_template.py), Reference/ (logo, avatar, own photos).
+
+Created for AI Video Motion members. Not a member yet? Join AI Video Motion.
+https://tinyurl.com/AIVideoMotion

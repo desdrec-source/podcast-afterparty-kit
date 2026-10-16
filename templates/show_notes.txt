@@ -1,0 +1,33 @@
+[EPISODE TITLE, under 60 characters]
+
+*This is an example draft for ideas and inspiration. We don't recommend copying and pasting it as is: review it, make changes or rewrite it in your own voice before publishing.*
+
+In one sentence: [the episode's main answer, 150 characters or fewer]
+
+Summary
+[2-3 short paragraphs. Facts from the transcript only.]
+
+What you'll learn
+- 
+- 
+- 
+
+Chapters
+00:00 Introduction
+mm:ss [Chapter]
+mm:ss [Chapter]
+(Start at 00:00, at least 3 chapters, ascending, each at least 10 seconds long.)
+
+Guest
+[Name, role, links they publish]
+
+Quotes
+- "[exact quote]" (mm:ss)
+
+Links mentioned
+- 
+
+[Standard CTA from the Style Guide]
+
+Created for AI Video Motion members. Not a member yet? Join AI Video Motion.
+https://tinyurl.com/AIVideoMotion

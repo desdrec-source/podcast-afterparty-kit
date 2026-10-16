@@ -1,0 +1,10 @@
+[SHOW NAME]: Episode Index
+
+*This is an example draft for ideas and inspiration. We don't recommend copying and pasting it as is: review it, make changes or rewrite it in your own voice before publishing.*
+
+| Date | Episode title | Guest | Folder | Status (draft / with client / approved) | Notes |
+|------|---------------|-------|--------|------------------------------------------|-------|
+|      |               |       |        |                                          |       |
+
+Created for AI Video Motion members. Not a member yet? Join AI Video Motion.
+https://tinyurl.com/AIVideoMotion

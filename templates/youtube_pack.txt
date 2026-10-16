@@ -1,0 +1,31 @@
+[EPISODE TITLE]: YouTube Description Pack
+
+*This is an example draft for ideas and inspiration. We don't recommend copying and pasting it as is: review it, make changes or rewrite it in your own voice before publishing.*
+
+Title options (under 60 characters)
+1. 
+2. 
+3. 
+
+Tags
+[comma-separated]
+
+Pinned comment
+[question to spark discussion]
+
+Copy-paste description
+----- START COPY -----
+[Hook: 1-2 lines]
+
+[Short summary]
+
+Chapters
+00:00 Introduction
+mm:ss [Chapter]
+mm:ss [Chapter]
+
+[Links / CTA from the Style Guide]
+----- END COPY -----
+
+Created for AI Video Motion members. Not a member yet? Join AI Video Motion.
+https://tinyurl.com/AIVideoMotion
